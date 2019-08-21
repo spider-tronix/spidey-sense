@@ -1,7 +1,78 @@
 Contributor	Date	Message	Repo	Time
-imsenthur	2019-08-12	Formulated a plan for ICRA.	shadow-bot	16:42:47
-web-flow	2019-08-11	Added 2 jeep pictures to README	tiesto	19:11:34
-web-flow	2019-08-11	Added Unity scene pictures to README	tiesto	19:30:28
-imsenthur	2019-08-08	Added sim-shot!	shadow-bot	22:42:56
-imsenthur	2019-08-08	Gazebo simulation added.	shadow-bot	22:42:00
-web-flow	2019-08-07	Update Readme	shadow-bot	05:24:16
+manuaatitya	2019-08-21	Selection of T section added	shadow-bot	17:38:41
+web-flow	2019-08-21	Delete README.md	armadillo	16:34:23
+imsenthur	2019-08-21	Added impedance controller with computed qdd->q.	shadow-bot	15:55:57
+imsenthur	2019-08-21	Added impedance control with computed Tau.	shadow-bot	15:53:00
+web-flow	2019-08-21	Equations Simulation remaining	armadillo	16:47:47
+web-flow	2019-08-21	Corrected Gear Ratio	armadillo	16:46:47
+web-flow	2019-08-21	Corrected gear Ratio	armadillo	16:45:23
+web-flow	2019-08-21	Rename Gear Ratio to Gear Ratio.md	armadillo	16:41:20
+web-flow	2019-08-21	Gear Ratios	armadillo	16:41:01
+web-flow	2019-08-21	Equation Readme	armadillo	16:33:31
+jaxxstar	2019-08-21	Fusion render added	shadow-bot	17:00:58
+web-flow	2019-08-21	Oscillatory mechanism	armadillo	16:30:43
+manuaatitya	2019-08-21	Selection of M section added	shadow-bot	17:38:03
+web-flow	2019-08-21	Updated Readme	VeinVisualizer2.0	12:43:10
+web-flow	2019-08-21	Added IP programs	VeinVisualizer2.0	12:36:25
+web-flow	2019-08-21	Added undistort.py	VeinVisualizer2.0	12:34:01
+web-flow	2019-08-21	Added calibration.py	VeinVisualizer2.0	12:32:53
+web-flow	2019-08-21	Updated Readme	VeinVisualizer2.0	12:11:55
+jaxxstar	2019-08-21	Replaced render image	shadow-bot	16:59:18
+web-flow	2019-08-21	Initial commit	VeinVisualizer2.0	12:11:30
+manuaatitya	2019-08-21	Basic EDF Control Code Added	shadow-bot	17:06:00
+manuaatitya	2019-08-21	Design section added	shadow-bot	17:35:30
+jaxxstar	2019-08-21	organised	shadow-bot	17:07:44
+manuaatitya	2019-08-21	Adaptive suspension section added	shadow-bot	17:32:15
+jaxxstar	2019-08-21	Merge branch 'master' of https://github.com/spider-tronix/shadow-bot	shadow-bot	17:31:51
+jaxxstar	2019-08-21	Added arduino code for pos-control	shadow-bot	17:31:30
+jaxxstar	2019-08-21	Merge branch 'master' of https://github.com/spider-tronix/shadow-bot	shadow-bot	17:30:19
+jaxxstar	2019-08-21	added few more renders	shadow-bot	17:29:59
+manuaatitya	2019-08-21	Abstract in Patent Report added	shadow-bot	17:29:50
+jaxxstar	2019-08-21	Added few more renders	shadow-bot	17:26:10
+jaxxstar	2019-08-21	Merge branch 'master' of https://github.com/spider-tronix/shadow-bot	shadow-bot	17:23:10
+manuaatitya	2019-08-21	Merge branch 'master' of https://github.com/spider-tronix/shadow-bot	shadow-bot	17:32:49
+manuaatitya	2019-08-21	Conclusion section added	shadow-bot	17:33:53
+manuaatitya	2019-08-21	Acknowledgement file added	shadow-bot	17:31:26
+manuaatitya	2019-08-21	Wall Climbing section added	shadow-bot	17:37:04
+manuaatitya	2019-08-21	Introduction section added	shadow-bot	17:36:24
+manuaatitya	2019-08-21	Variable Speed Mode EDF Code Added	shadow-bot	17:10:32
+imsenthur	2019-08-19	Fixed simulink model with re-worked dynamics.	shadow-bot	19:12:44
+KrispyCamel4u	2019-08-19	Removing txt file	y-charger	16:48:25
+KrispyCamel4u	2019-08-19	key points	y-charger	16:36:43
+KrispyCamel4u	2019-08-19	Key points	y-charger	15:02:57
+KrispyCamel4u	2019-08-19	invertor keypoints	y-charger	14:49:08
+imsenthur	2019-08-19	longitudinal-dynamics re-done!	shadow-bot	18:07:31
+imsenthur	2019-08-19	Front-link position control added. (IT WORKS)	shadow-bot	19:17:57
+imsenthur	2019-08-19	Position-control at 0.5*pi.	shadow-bot	19:20:43
+web-flow	2019-08-18	Update README.md	armadillo	08:00:47
+web-flow	2019-08-18	MATLAB Controller Implementation	armadillo	06:32:31
+web-flow	2019-08-18	"Update README.md
+
+Added pre-festember workplan"	arboc	13:45:04
+web-flow	2019-08-18	Update README.md	arboc	13:45:48
+KrispyCamel4u	2019-08-18	modified	y-charger	05:11:00
+KrispyCamel4u	2019-08-18	initial commit	y-charger	05:13:11
+KrispyCamel4u	2019-08-18	folder	y-charger	05:09:30
+web-flow	2019-08-17	Dynamic Inversion Control Plots	armadillo	10:18:16
+web-flow	2019-08-17	Design measurements	armadillo	10:52:26
+web-flow	2019-08-17	Update README.md	y-charger	13:05:13
+KrispyCamel4u	2019-08-17	update	y-charger	13:04:22
+KrispyCamel4u	2019-08-17	updated	y-charger	11:49:02
+web-flow	2019-08-17	Delete readme.docx	y-charger	12:46:22
+imsenthur	2019-08-17	Changed angle conventions!	shadow-bot	20:37:09
+web-flow	2019-08-17	Delete readme.docx	y-charger	11:50:05
+KrispyCamel4u	2019-08-17	updated	y-charger	11:54:42
+KrispyCamel4u	2019-08-17	abstract	y-charger	12:49:06
+KrispyCamel4u	2019-08-17	Merge branch 'master' of https://github.com/spider-tronix/Y-charger	y-charger	12:52:02
+KrispyCamel4u	2019-08-17	update	y-charger	13:01:37
+imsenthur	2019-08-17	Fixed dimensional(?) mismatch with a demux.	shadow-bot	14:21:47
+imsenthur	2019-08-17	It's (q2d)^2 not (q2)^2, retard!	shadow-bot	20:25:27
+web-flow	2019-08-17	Initial commit	y-charger	10:58:54
+anbu52	2019-08-16	necessary components added in budget list	mu-con-2019	19:53:50
+anbu52	2019-08-16	extra file deletion	mu-con-2019	19:32:41
+anbu52	2019-08-16	corrected commit	mu-con-2019	18:42:28
+anbu52	2019-08-16	extra folder deleted	mu-con-2019	18:58:02
+anbu52	2019-08-16	extra folder deleted	mu-con-2019	18:53:53
+web-flow	2019-08-16	Delete .~lock.BUDGET.TXT.odt#	mu-con-2019	18:44:49
+anbu52	2019-08-16	workshop ideation repository created	mu-con-2019	17:35:15
+anbu52	2019-08-16	Corrected commit	mu-con-2019	18:36:08
