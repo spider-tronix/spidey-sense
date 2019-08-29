@@ -1,78 +1,72 @@
 Contributor	Date	Message	Repo	Time
-manuaatitya	2019-08-21	Selection of T section added	shadow-bot	17:38:41
-web-flow	2019-08-21	Delete README.md	armadillo	16:34:23
-imsenthur	2019-08-21	Added impedance controller with computed qdd->q.	shadow-bot	15:55:57
-imsenthur	2019-08-21	Added impedance control with computed Tau.	shadow-bot	15:53:00
-web-flow	2019-08-21	Equations Simulation remaining	armadillo	16:47:47
-web-flow	2019-08-21	Corrected Gear Ratio	armadillo	16:46:47
-web-flow	2019-08-21	Corrected gear Ratio	armadillo	16:45:23
-web-flow	2019-08-21	Rename Gear Ratio to Gear Ratio.md	armadillo	16:41:20
-web-flow	2019-08-21	Gear Ratios	armadillo	16:41:01
-web-flow	2019-08-21	Equation Readme	armadillo	16:33:31
-jaxxstar	2019-08-21	Fusion render added	shadow-bot	17:00:58
-web-flow	2019-08-21	Oscillatory mechanism	armadillo	16:30:43
-manuaatitya	2019-08-21	Selection of M section added	shadow-bot	17:38:03
-web-flow	2019-08-21	Updated Readme	VeinVisualizer2.0	12:43:10
-web-flow	2019-08-21	Added IP programs	VeinVisualizer2.0	12:36:25
-web-flow	2019-08-21	Added undistort.py	VeinVisualizer2.0	12:34:01
-web-flow	2019-08-21	Added calibration.py	VeinVisualizer2.0	12:32:53
-web-flow	2019-08-21	Updated Readme	VeinVisualizer2.0	12:11:55
-jaxxstar	2019-08-21	Replaced render image	shadow-bot	16:59:18
-web-flow	2019-08-21	Initial commit	VeinVisualizer2.0	12:11:30
-manuaatitya	2019-08-21	Basic EDF Control Code Added	shadow-bot	17:06:00
-manuaatitya	2019-08-21	Design section added	shadow-bot	17:35:30
-jaxxstar	2019-08-21	organised	shadow-bot	17:07:44
-manuaatitya	2019-08-21	Adaptive suspension section added	shadow-bot	17:32:15
-jaxxstar	2019-08-21	Merge branch 'master' of https://github.com/spider-tronix/shadow-bot	shadow-bot	17:31:51
-jaxxstar	2019-08-21	Added arduino code for pos-control	shadow-bot	17:31:30
-jaxxstar	2019-08-21	Merge branch 'master' of https://github.com/spider-tronix/shadow-bot	shadow-bot	17:30:19
-jaxxstar	2019-08-21	added few more renders	shadow-bot	17:29:59
-manuaatitya	2019-08-21	Abstract in Patent Report added	shadow-bot	17:29:50
-jaxxstar	2019-08-21	Added few more renders	shadow-bot	17:26:10
-jaxxstar	2019-08-21	Merge branch 'master' of https://github.com/spider-tronix/shadow-bot	shadow-bot	17:23:10
-manuaatitya	2019-08-21	Merge branch 'master' of https://github.com/spider-tronix/shadow-bot	shadow-bot	17:32:49
-manuaatitya	2019-08-21	Conclusion section added	shadow-bot	17:33:53
-manuaatitya	2019-08-21	Acknowledgement file added	shadow-bot	17:31:26
-manuaatitya	2019-08-21	Wall Climbing section added	shadow-bot	17:37:04
-manuaatitya	2019-08-21	Introduction section added	shadow-bot	17:36:24
-manuaatitya	2019-08-21	Variable Speed Mode EDF Code Added	shadow-bot	17:10:32
-imsenthur	2019-08-19	Fixed simulink model with re-worked dynamics.	shadow-bot	19:12:44
-KrispyCamel4u	2019-08-19	Removing txt file	y-charger	16:48:25
-KrispyCamel4u	2019-08-19	key points	y-charger	16:36:43
-KrispyCamel4u	2019-08-19	Key points	y-charger	15:02:57
-KrispyCamel4u	2019-08-19	invertor keypoints	y-charger	14:49:08
-imsenthur	2019-08-19	longitudinal-dynamics re-done!	shadow-bot	18:07:31
-imsenthur	2019-08-19	Front-link position control added. (IT WORKS)	shadow-bot	19:17:57
-imsenthur	2019-08-19	Position-control at 0.5*pi.	shadow-bot	19:20:43
-web-flow	2019-08-18	Update README.md	armadillo	08:00:47
-web-flow	2019-08-18	MATLAB Controller Implementation	armadillo	06:32:31
-web-flow	2019-08-18	"Update README.md
-
-Added pre-festember workplan"	arboc	13:45:04
-web-flow	2019-08-18	Update README.md	arboc	13:45:48
-KrispyCamel4u	2019-08-18	modified	y-charger	05:11:00
-KrispyCamel4u	2019-08-18	initial commit	y-charger	05:13:11
-KrispyCamel4u	2019-08-18	folder	y-charger	05:09:30
-web-flow	2019-08-17	Dynamic Inversion Control Plots	armadillo	10:18:16
-web-flow	2019-08-17	Design measurements	armadillo	10:52:26
-web-flow	2019-08-17	Update README.md	y-charger	13:05:13
-KrispyCamel4u	2019-08-17	update	y-charger	13:04:22
-KrispyCamel4u	2019-08-17	updated	y-charger	11:49:02
-web-flow	2019-08-17	Delete readme.docx	y-charger	12:46:22
-imsenthur	2019-08-17	Changed angle conventions!	shadow-bot	20:37:09
-web-flow	2019-08-17	Delete readme.docx	y-charger	11:50:05
-KrispyCamel4u	2019-08-17	updated	y-charger	11:54:42
-KrispyCamel4u	2019-08-17	abstract	y-charger	12:49:06
-KrispyCamel4u	2019-08-17	Merge branch 'master' of https://github.com/spider-tronix/Y-charger	y-charger	12:52:02
-KrispyCamel4u	2019-08-17	update	y-charger	13:01:37
-imsenthur	2019-08-17	Fixed dimensional(?) mismatch with a demux.	shadow-bot	14:21:47
-imsenthur	2019-08-17	It's (q2d)^2 not (q2)^2, retard!	shadow-bot	20:25:27
-web-flow	2019-08-17	Initial commit	y-charger	10:58:54
-anbu52	2019-08-16	necessary components added in budget list	mu-con-2019	19:53:50
-anbu52	2019-08-16	extra file deletion	mu-con-2019	19:32:41
-anbu52	2019-08-16	corrected commit	mu-con-2019	18:42:28
-anbu52	2019-08-16	extra folder deleted	mu-con-2019	18:58:02
-anbu52	2019-08-16	extra folder deleted	mu-con-2019	18:53:53
-web-flow	2019-08-16	Delete .~lock.BUDGET.TXT.odt#	mu-con-2019	18:44:49
-anbu52	2019-08-16	workshop ideation repository created	mu-con-2019	17:35:15
-anbu52	2019-08-16	Corrected commit	mu-con-2019	18:36:08
+manuaatitya	2019-08-29	plots for the modified dynamics alpha_dot and alpha_ddot added	shadow-bot	17:57:09
+imsenthur	2019-08-29	Added new .stl to gazebo_ws.	shadow-bot	05:32:48
+abishek27	2019-08-29	Updated README	spy-rtos	19:58:14
+abishek27	2019-08-29	Updated Documentation	spy-rtos	19:45:09
+abishek27	2019-08-29	Added Documentation	spy-rtos	04:40:56
+SiddharthRaoA	2019-08-29	Added Kinematic Analysis	mu-con-2019	19:27:47
+jaxxstar	2019-08-29	Paper submission and conference details added	arboc	19:03:58
+jaxxstar	2019-08-29	Updated team	arboc	19:00:34
+jaxxstar	2019-08-29	Updated workplan	arboc	18:58:50
+manuaatitya	2019-08-29	Bugs in the previous version of variable speed rectified	shadow-bot	17:56:15
+web-flow	2019-08-29	Update README.md	spy-rtos	20:09:08
+imsenthur	2019-08-29	Fixed Moment of Inertia!	shadow-bot	05:30:07
+imsenthur	2019-08-29	Added COR and Friction to the wheels.	shadow-bot	05:31:03
+imsenthur	2019-08-29	Fixed angle control.	shadow-bot	05:31:58
+abishek27	2019-08-29	Updated README	spy-rtos	20:07:22
+shyam-king	2019-08-29	Tested normal working of Ultrasonic Sensor	shadow-bot	13:21:07
+imsenthur	2019-08-29	Tuned visual offsets for the wheels.	shadow-bot	14:56:44
+imsenthur	2019-08-29	Added new collada models to URDF.	shadow-bot	14:52:29
+manuaatitya	2019-08-29	Bugs in the previous version of multiple speed code rectified	shadow-bot	17:55:09
+imsenthur	2019-08-29	Merge branch 'master' of https://github.com/spider-tronix/shadow-bot	shadow-bot	14:52:50
+manuaatitya	2019-08-29	EDF control code without library file added	shadow-bot	17:54:21
+manuaatitya	2019-08-29	Previous version of EDF codes removed	shadow-bot	17:53:17
+jaxxstar	2019-08-29	Merge branch 'master' of https://github.com/spider-tronix/shadow-bot	shadow-bot	17:10:25
+jaxxstar	2019-08-29	Right links modified	shadow-bot	17:08:55
+imsenthur	2019-08-29	Deleted irrelevant stl models	shadow-bot	14:58:23
+shyam-king	2019-08-29	Merge branch 'master' of github.com:spider-tronix/shadow-bot	shadow-bot	13:23:56
+imsenthur	2019-08-29	Fixed SDF formatting issue!	shadow-bot	14:55:13
+MukkeshGandhi09	2019-08-28	New Arm urdf(basic)	cerebro	06:02:20
+MukkeshGandhi09	2019-08-28	3-links Rviz config	cerebro	06:40:44
+jaxxstar	2019-08-28	Left links stl added	shadow-bot	16:29:58
+cbkathir	2019-08-28	adding Multithreadingframe.py	vein-visualizer-2.0	12:26:53
+akilm	2019-08-28	cad files	bee-bots	17:15:40
+akilm	2019-08-28	 Bot model and chassis design	bee-bots	17:18:07
+karthiks1701	2019-08-28	merge	bee-bots	17:35:12
+jaxxstar	2019-08-28	Bot body stl added	shadow-bot	13:23:26
+jaxxstar	2019-08-28	Rear wheel stl added	shadow-bot	13:29:33
+jaxxstar	2019-08-28	Right links stl added	shadow-bot	13:37:40
+jaxxstar	2019-08-28	Added front wheel stl	shadow-bot	16:42:44
+adityaravichander	2019-08-27	pid code for setting rpm	bee-bots	12:49:00
+shyam-king	2019-08-27	Merge branch 'master' of github.com:spider-tronix/shadow-bot	shadow-bot	15:23:18
+anbu52	2019-08-27	Add Design	mu-con-2019	12:29:19
+imsenthur	2019-08-27	Switched back to effort-controllers for differential-drive.	shadow-bot	07:31:02
+shyam-king	2019-08-27	Implement basic ultrasonic sensor	shadow-bot	15:58:12
+Syzygianinfern0	2019-08-26	Comms for Directions	mu-con-2019	16:32:12
+shyam-king	2019-08-26	fix USART read, document	mu-con-2019	15:43:35
+shyam-king	2019-08-26	Interface bot movement and USART input	mu-con-2019	15:40:03
+sudharsan2000	2019-08-26	Tuned angles	mu-con-2019	15:18:42
+MukkeshGandhi09	2019-08-26	 Self-centering mechanism	armadillo	12:08:09
+MukkeshGandhi09	2019-08-26	Expansion Mechanism	armadillo	11:40:08
+adityaravichander	2019-08-26	position for wheel	bee-bots	13:43:11
+imsenthur	2019-08-26	Switched to position-controller.	shadow-bot	21:47:21
+imsenthur	2019-08-26	Added screen-shot!	shadow-bot	21:48:28
+shyam-king	2019-08-26	gitignore fix	shadow-bot	20:05:49
+imsenthur	2019-08-26	Renamed Joint position controllers.	shadow-bot	21:45:07
+MukkeshGandhi09	2019-08-25	NEW KINEMATICS	cerebro	14:02:53
+MukkeshGandhi09	2019-08-25	NEW KINEMATIC ANALYSIS	cerebro	14:05:20
+sachin-101	2019-08-25	bot class error corrected	mu-con-2019	15:23:06
+sudharsan2000	2019-08-25	Tested, Minor changes made	mu-con-2019	07:32:42
+sudharsan2000	2019-08-25	Added comments	mu-con-2019	06:17:25
+sudharsan2000	2019-08-25	Modified timer0 operation to complete software type	mu-con-2019	06:08:55
+web-flow	2019-08-24	Update README.md	cerebro	16:53:50
+shyam-king	2019-08-24	rectified timer0 control for servo at pin 6	mu-con-2019	08:49:43
+Syzygianinfern0	2019-08-24	test servo at pin 6: fail	mu-con-2019	07:40:30
+sudharsan2000	2019-08-24	Merge branch 'servo-control'	mu-con-2019	06:09:46
+sudharsan2000	2019-08-24	Added comments	mu-con-2019	05:37:34
+sudharsan2000	2019-08-24	Added controls	mu-con-2019	05:44:06
+Syzygianinfern0	2019-08-24	test servo control: success!	mu-con-2019	07:22:02
+GauravSingh789	2019-08-24	Further Updates to Servo Control	mu-con-2019	06:55:58
+sudharsan2000	2019-08-24	Typos corrected	mu-con-2019	06:08:59
+GauravSingh789	2019-08-24	modified servo control	mu-con-2019	06:27:32
+web-flow	2019-08-23	Added Barrel.py	vein-visualizer-2.0	09:02:53
