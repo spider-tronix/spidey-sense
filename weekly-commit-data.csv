@@ -1,68 +1,49 @@
 Contributor	Date	Message	Repo	Time
-imsenthur	2019-09-05	Switching to Xflow from Flow-design.	shadow-bot	16:07:04
-web-flow	2019-09-05	Updated Readme	spy-rtos	16:31:30
-Rajk0520	2019-09-05	Grade 1 Braille optimized	portable-braille	07:16:27
-jaxxstar	2019-09-04	Merge branch 'master' of https://github.com/spider-tronix/shadow-bot	shadow-bot	16:21:34
-imsenthur	2019-09-04	Added Cd-plot for 30deg-sim.	shadow-bot	19:17:05
-adityaravichander	2019-09-04	setpoint tracking of theta from inverse kinematics equations	cerebro	15:36:03
-adityaravichander	2019-09-04	changed P to PID+ proper tuned constants	cerebro	17:58:31
-jaxxstar	2019-09-04	Sideview phoyoshop file added	shadow-bot	12:47:59
-jaxxstar	2019-09-04	Full bot stl added (Front links at 30*)	shadow-bot	12:56:34
-imsenthur	2019-09-04	Modified side-view to fbd in .psd	shadow-bot	15:58:49
-imsenthur	2019-09-04	Added free body diagram.	shadow-bot	15:59:39
-jaxxstar	2019-09-04	Added isometric drawing	shadow-bot	16:19:52
-D4RK3RKN16H7	2019-09-04	Uploaded all files	LineFollower	08:47:45
-imsenthur	2019-09-04	Flow-simulation added	shadow-bot	18:21:03
-imsenthur	2019-09-04	Orientation of stl	shadow-bot	18:58:14
-imsenthur	2019-09-04	Added sim-files for 30deg.	shadow-bot	18:59:14
-jaxxstar	2019-09-04	75 degree stl added	shadow-bot	18:59:42
-jaxxstar	2019-09-04	Added 30 deg stl	shadow-bot	18:24:43
-jaxxstar	2019-09-04	Merge branch 'master' of https://github.com/spider-tronix/shadow-bot	shadow-bot	19:00:32
-imsenthur	2019-09-04	Added sim-resolution.	shadow-bot	18:56:58
-imsenthur	2019-09-04	Added sim-settings.	shadow-bot	18:55:59
-jaxxstar	2019-09-04	60 degree stl added	shadow-bot	18:52:43
-jaxxstar	2019-09-04	45 deg stl added	shadow-bot	18:51:37
-akilm	2019-09-02	PID tuning	bee-bots	14:44:46
-akilm	2019-09-02	pwm testing	bee-bots	14:36:50
-akilm	2019-09-02	frequency calculations	bee-bots	14:46:40
-karthiks1701	2019-09-02	added documentation files	bee-bots	17:03:02
-akilm	2019-09-02	restore	bee-bots	11:15:47
-akilm	2019-09-02	test files	bee-bots	11:13:46
-MukkeshGandhi09	2019-09-02	ROS controller plugin	cerebro	18:11:04
-akilm	2019-09-02	speedometer	bee-bots	11:25:59
-adityasingh3007	2019-09-02	Grade 2 minor bug fixed	portable-braille	05:48:55
-jaxxstar	2019-09-02	added suspension front links	shadow-bot	14:08:14
-jaxxstar	2019-09-02	Modified isometric view	shadow-bot	14:14:56
-jaxxstar	2019-09-02	Side view drawing added	shadow-bot	14:16:00
-karthiks1701	2019-09-01	added videos	bee-bots	16:46:17
-karthiks1701	2019-09-01	one bot done	bee-bots	16:42:04
-anbu52	2019-09-01	arm-design-added	bee-bots	05:34:33
-anbu52	2019-09-01	added-render-image	mu-con-2019	17:44:34
-anbu52	2019-09-01	added-elec-components-cad-assembly	mu-con-2019	16:32:41
-adityasingh3007	2019-09-01	Modification needed in actuator added	portable-braille	15:19:28
-karthiks1701	2019-09-01	Merge branch 'master' of https://github.com/spider-tronix/bee-bots	bee-bots	08:31:25
-karthiks1701	2019-09-01	done oops	bee-bots	08:30:51
-jaxxstar	2019-09-01	Left link adaptive suspension added	shadow-bot	13:45:45
-jaxxstar	2019-09-01	autodesk inventor design file added	shadow-bot	13:40:10
-jaxxstar	2019-09-01	Isometric view for ICRA paper	shadow-bot	19:37:35
-jaxxstar	2019-09-01	Side view for ICRA paper	shadow-bot	19:00:45
-MukkeshGandhi09	2019-09-01	Gazebo spawn	cerebro	16:52:28
-MukkeshGandhi09	2019-09-01	Sample CAD model for URDF	cerebro	16:59:46
-jaxxstar	2019-09-01	Overshoot modified	shadow-bot	13:34:33
-jaxxstar	2019-09-01	left position control edited	shadow-bot	13:35:06
-jaxxstar	2019-09-01	Differential drive completed!	shadow-bot	13:35:38
-jaxxstar	2019-09-01	Fusion 360 design added	shadow-bot	13:44:43
-jaxxstar	2019-09-01	Front links control added	shadow-bot	13:45:21
-anbu52	2019-08-31	designs changed	mu-con-2019	13:37:24
-karthiks1701	2019-08-31	oops for all	bee-bots	22:11:58
-karthiks1701	2019-08-31	Version control from Visual code	bee-bots	20:34:51
-karthiks1701	2019-08-31	scene updated	bee-bots	20:31:09
-MukkeshGandhi09	2019-08-31	Inertia added	cerebro	14:29:56
-karthiks1701	2019-08-31	python follow done	bee-bots	20:27:20
-jaxxstar	2019-08-31	Added isometric view	mu-con-2019	18:52:55
-Syzygianinfern0	2019-08-31	Edited PCB design	mu-con-2019	03:38:07
-web-flow	2019-08-31	Updated README.md file	vein-visualizer-2.0	10:00:11
-web-flow	2019-08-31	"Merge pull request #1 from gouthamcm/patch-1
+jaxxstar	2019-09-12	Organised	shadow-bot	18:13:24
+imsenthur	2019-09-12	Added stiffness-compliance images.	shadow-bot	17:29:31
+karthiks1701	2019-09-12	Merge branch 'master' of https://github.com/spider-tronix/bee-bots	bee-bots	17:15:41
+karthiks1701	2019-09-12	restore	bee-bots	17:09:49
+imsenthur	2019-09-12	Merged fdb and kinematics!	shadow-bot	17:33:50
+imsenthur	2019-09-12	Modified flow-lines with theta value.	shadow-bot	15:12:46
+ruphan	2019-09-12	Optimised for Solenoid JY0415	portable-braille	13:46:00
+imsenthur	2019-09-12	Simulink block-diagram added	shadow-bot	17:30:34
+imsenthur	2019-09-12	Added block-diagram and collision images.	shadow-bot	17:33:00
+imsenthur	2019-09-12	Added transition-kinematics.	shadow-bot	17:32:05
+imsenthur	2019-09-12	Impedance controller with rectified dynamics.	shadow-bot	17:31:21
+ruphan	2019-09-11	Basic solenoid schematic to reduce power consumption	portable-braille	21:22:14
+KrispyCamel4u	2019-09-11	Correction	y-charger	11:25:42
+KrispyCamel4u	2019-09-11	added new file	y-charger	11:05:21
+cbkathir	2019-09-11	Optimization results	vein-visualizer-2.0	03:33:34
+jaxxstar	2019-09-11	Changed new motor drivers and modified pin config	shadow-bot	17:13:13
+adityaravichander	2019-09-11	 Matlab,ROS integrated	cerebro	11:21:19
+D4RK3RKN16H7	2019-09-10	updated readme	vein-visualizer-2.0	19:34:31
+D4RK3RKN16H7	2019-09-10	updated reamde.md	vein-visualizer-2.0	07:24:47
+D4RK3RKN16H7	2019-09-10	added video	vein-visualizer-2.0	08:07:48
+MukkeshGandhi09	2019-09-10	MATLAB ROS publisher	cerebro	20:28:12
+D4RK3RKN16H7	2019-09-10	benchmark results	vein-visualizer-2.0	19:31:06
+D4RK3RKN16H7	2019-09-10	benchmarks created	vein-visualizer-2.0	07:22:05
+gigatesseract	2019-09-10	blockchain api with proof of work	bee-bots	05:09:47
+jaxxstar	2019-09-10	Added 55deg link angle render	shadow-bot	06:39:22
+jaxxstar	2019-09-10	Added counter log for adaptive suspension plots	shadow-bot	07:49:57
+imsenthur	2019-09-09	Added matlab cdX-plots.	shadow-bot	17:09:51
+jaxxstar	2019-09-09	Reduced line thickness	shadow-bot	16:56:19
+imsenthur	2019-09-09	Added matlab CdX-plots.	shadow-bot	17:12:33
+shyam-king	2019-09-09	Implement PID logic	LineFollower	11:53:26
+shyam-king	2019-09-09	fix some logical errors in Sensors.h	LineFollower	11:58:42
+KrispyCamel4u	2019-09-08	added findigs	y-charger	14:39:36
+BhavyaKrishna	2019-09-08	Update invertor plan.md	y-charger	11:15:43
+BhavyaKrishna	2019-09-08	"Update invertor plan.md
 
-Updated README.md file"	vein-visualizer-2.0	10:03:53
-Syzygianinfern0	2019-08-31	Add camera calibration code	vein-visualizer-2.0	10:24:29
+bipolar sine pwm details added"	y-charger	10:39:05
+jaxxstar	2019-09-08	Added origin	shadow-bot	19:17:12
+web-flow	2019-09-08	Update invertor plan.md	y-charger	11:23:25
+imsenthur	2019-09-08	Flow-analysis result added.	shadow-bot	16:24:50
+imsenthur	2019-09-08	Added rugged terrain image(.psd).	shadow-bot	16:25:58
+imsenthur	2019-09-08	Merge branch 'master' of https://github.com/spider-tronix/shadow-bot	shadow-bot	16:25:01
+jaxxstar	2019-09-07	Found the parameters for left linkgit status!	shadow-bot	14:37:31
+shyam-king	2019-09-07	Implement QTRSensorsAnalog	LineFollower	10:02:44
+shyam-king	2019-09-07	Fix conflict in gitignore	LineFollower	09:40:24
+shyam-king	2019-09-07	Initialize QTRSensorsAnalog class	LineFollower	09:35:25
+shyam-king	2019-09-07	Initialized PID Control	LineFollower	09:31:18
+sudharsan2000	2019-09-07	Removed errors (excluding QTRSensorAnalog)	LineFollower	09:28:46
+shyam-king	2019-09-07	Add gitignore, gitignore vscode	LineFollower	08:19:39
