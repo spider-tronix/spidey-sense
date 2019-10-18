@@ -1,49 +1,36 @@
 Contributor	Date	Message	Repo	Time
-MukkeshGandhi09	2019-10-10	Output PCB layout	armadillo	06:12:33
-MukkeshGandhi09	2019-10-10	Encoder_failure	armadillo	06:29:18
-imsenthur	2019-10-10	Shell-locus test script (mock-up).	armadillo	11:38:12
-imsenthur	2019-10-10	Added mock-up files for shell-test (.sldprt)	armadillo	11:39:47
-imsenthur	2019-10-10	TEST 1: FAIL, should re-work the expansion-continuity.	armadillo	11:46:45
-imsenthur	2019-10-08	Initialized flow simulation parameters.	arboc	11:31:48
-Abishek0398	2019-10-08	Merge branch 'master' of https://github.com/spider-tronix/spy-rtos	spy-rtos	17:20:04
-Abishek0398	2019-10-08	Added task arguments to stack_init()	spy-rtos	17:17:05
-Abishek0398	2019-10-08	Fixed the issue of interrupts being disabled if os_start_critical() is called twice in the same function	spy-rtos	17:03:39
-web-flow	2019-10-08	Update README.md	spy-rtos	12:11:22
-sachin-101	2019-10-07	code refraction	ACNN	18:20:00
-karthiks1701	2019-10-07	Merge branch 'master' of https://github.com/spider-tronix/bee-bots	bee-bots	21:00:03
-karthiks1701	2019-10-07	path_point_by_point	bee-bots	20:59:55
-web-flow	2019-10-06	"Merge pull request #6 from amogh-jrules/master
-
-Clustering algorithm updated"	bee-bots	17:17:47
-web-flow	2019-10-06	"Merge pull request #1 from spider-tronix/master
-
-Updating fork"	bee-bots	05:25:26
-amogh-jrules	2019-10-06	Merge remote-tracking branch 'master/master'	bee-bots	16:23:25
-amogh-jrules	2019-10-06	"Clustering algorithm updated
-
-Now using in standard sklearn implementation of DBSCAN
-In progress : overlappingCluster, chooseTargetBlock, chooseTargetCluster methods"	bee-bots	17:13:18
-amogh-jrules	2019-10-06	Merge remote-tracking branch 'origin/master'	bee-bots	17:14:10
-Syzygianinfern0	2019-10-05	"Typo corrected
-Typo due to typo correction"	ACNN	10:47:23
-Syzygianinfern0	2019-10-05	View learning_rate for insights	ACNN	13:08:57
-Syzygianinfern0	2019-10-05	Explosion handling v2 Corrections	ACNN	13:08:00
-sachin-101	2019-10-05	"Solved Grad Explosion v2
-
-Basically performed Batch Normalization and ReLU non-linearity after group convolution"	ACNN	12:03:19
-sachin-101	2019-10-05	Merge branch 'master' of https://github.com/spider-tronix/ACNN	ACNN	11:34:36
-sachin-101	2019-10-05	"Benchmark ResNet's best accuracy on CIFAR 10
-
-Error is just 6.62%"	ACNN	03:11:29
-sachin-101	2019-10-05	typo corrected	ACNN	10:47:23
-Syzygianinfern0	2019-10-05	Branch Checkoint	ACNN	06:04:52
-sachin-101	2019-10-05	cuda added	ACNN	05:34:27
-sachin-101	2019-10-05	resolved merge conflicts	ACNN	05:31:35
-sachin-101	2019-10-05	Added LR Scheduler	ACNN	05:29:04
-Syzygianinfern0	2019-10-05	"Display lr for insights
-Imports fixed"	ACNN	03:32:54
-sachin-101	2019-10-05	Moved Results to folders	ACNN	03:20:01
-Syzygianinfern0	2019-10-05	"Solving the explosion
-Documentation added (squash this)
-Train helper statically uses nll for now
-Code formatting in train_cifar"	ACNN	08:24:28
+MukkeshGandhi09	2019-10-17	PWM for Matlab interface	armadillo	13:04:10
+MukkeshGandhi09	2019-10-17	MATLAB_Arduino interface	armadillo	13:05:08
+imsenthur	2019-10-16	Added solver for contact-tangent.	armadillo	07:07:23
+imsenthur	2019-10-16	Orientation-axis <<>> Contact-tangent mismatch.	armadillo	07:09:20
+imsenthur	2019-10-16	Two-spoke planar assembly for testing cam-follower.	armadillo	07:59:40
+MukkeshGandhi09	2019-10-16	Tachometer	armadillo	13:13:52
+MukkeshGandhi09	2019-10-16	IDE Sketch	armadillo	13:14:38
+imsenthur	2019-10-16	Added xflow's guide-v94.	arboc	14:57:12
+imsenthur	2019-10-16	Modified gait parameters.	arboc	14:55:47
+web-flow	2019-10-16	Update plan.txt	armadillo	18:46:44
+imsenthur	2019-10-15	A new take on the pressure/normal angle at POC.	armadillo	07:29:09
+imsenthur	2019-10-15	Merge branch 'master' of https://github.com/spider-tronix/armadillo	armadillo	05:45:46
+imsenthur	2019-10-15	Skeleton code for cam.	armadillo	05:45:26
+Rajk0520	2019-10-15	SSH file transfer script added	portable-braille	14:11:04
+invalid-email-address	2019-10-15	delete	portable-braille	19:28:57
+adityasingh3007	2019-10-15	Access Point creation script added	portable-braille	20:11:32
+invalid-email-address	2019-10-15	SSH Image file transfer script added	portable-braille	14:22:57
+MukkeshGandhi09	2019-10-14	Overall plan	armadillo	11:24:09
+gigatesseract	2019-10-14	merge dev_blockchain with master	bee-bots	17:15:24
+gigatesseract	2019-10-14	added gitignore	bee-bots	17:09:12
+akilm	2019-10-14	dead reckon complete	bee-bots	10:55:13
+akilm	2019-10-14	Reset pin integration complete	bee-bots	10:51:33
+akilm	2019-10-14	Raspi control check for bot motion ; arduino reset pin integration required	bee-bots	10:43:34
+akilm	2019-10-14	Test files for serial communication between arduino and Raspi	bee-bots	10:35:37
+akilm	2019-10-14	Returns required turn angle in (0-360) scale based on current and set coordinates	bee-bots	10:29:37
+akilm	2019-10-14	Used receive interrupts for communication with raspi ; Latency issues	bee-bots	10:13:18
+akilm	2019-10-14	Returns Orientation of Bot	bee-bots	10:04:24
+akilm	2019-10-14	Controls bot motion based on Signal from Raspi	bee-bots	09:56:17
+akilm	2019-10-14	Returns wheel velocities in m/s	bee-bots	09:51:45
+gigatesseract	2019-10-14	delete unnecessary files	bee-bots	17:15:38
+anbu52	2019-10-14	added components list	armadillo	12:49:14
+adityaravichander	2019-10-12	corrections made	bee-bots	13:25:00
+anbu52	2019-10-12	added final assembly	armadillo	15:27:51
+ComputerMaestro	2019-10-12	post process techniques and test images	portable-braille	06:25:34
+adityaravichander	2019-10-12	added launch file	bee-bots	16:04:33
